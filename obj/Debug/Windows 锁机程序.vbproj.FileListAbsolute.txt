@@ -1,0 +1,16 @@
+C:\Users\SR 思锐开发者\OneDrive\文档\锁机程序\Windows 锁机程序\bin\Debug\Windows 锁机程序.exe.config
+C:\Users\SR 思锐开发者\OneDrive\文档\锁机程序\Windows 锁机程序\bin\Debug\Windows 锁机程序.exe
+C:\Users\SR 思锐开发者\OneDrive\文档\锁机程序\Windows 锁机程序\bin\Debug\Windows 锁机程序.pdb
+C:\Users\SR 思锐开发者\OneDrive\文档\锁机程序\Windows 锁机程序\bin\Debug\Windows 锁机程序.xml
+C:\Users\SR 思锐开发者\OneDrive\文档\锁机程序\Windows 锁机程序\obj\Debug\Windows 锁机程序.vbproj.AssemblyReference.cache
+C:\Users\SR 思锐开发者\OneDrive\文档\锁机程序\Windows 锁机程序\obj\Debug\Windows 锁机程序.vbproj.SuggestedBindingRedirects.cache
+C:\Users\SR 思锐开发者\OneDrive\文档\锁机程序\Windows 锁机程序\obj\Debug\Windows_锁机程序.Form1.resources
+C:\Users\SR 思锐开发者\OneDrive\文档\锁机程序\Windows 锁机程序\obj\Debug\Windows_锁机程序.Form2.resources
+C:\Users\SR 思锐开发者\OneDrive\文档\锁机程序\Windows 锁机程序\obj\Debug\Windows_锁机程序.Form3.resources
+C:\Users\SR 思锐开发者\OneDrive\文档\锁机程序\Windows 锁机程序\obj\Debug\Windows_锁机程序.Form4.resources
+C:\Users\SR 思锐开发者\OneDrive\文档\锁机程序\Windows 锁机程序\obj\Debug\Windows_锁机程序.Resources.resources
+C:\Users\SR 思锐开发者\OneDrive\文档\锁机程序\Windows 锁机程序\obj\Debug\Windows 锁机程序.vbproj.GenerateResource.cache
+C:\Users\SR 思锐开发者\OneDrive\文档\锁机程序\Windows 锁机程序\obj\Debug\Windows 锁机程序.vbproj.CoreCompileInputs.cache
+C:\Users\SR 思锐开发者\OneDrive\文档\锁机程序\Windows 锁机程序\obj\Debug\Windows 锁机程序.exe
+C:\Users\SR 思锐开发者\OneDrive\文档\锁机程序\Windows 锁机程序\obj\Debug\Windows 锁机程序.xml
+C:\Users\SR 思锐开发者\OneDrive\文档\锁机程序\Windows 锁机程序\obj\Debug\Windows 锁机程序.pdb
